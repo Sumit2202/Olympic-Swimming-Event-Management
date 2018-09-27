@@ -1,0 +1,8 @@
+/Users/sumitmittal/Desktop/Assignment_2/libraries/bin/Debug/netstandard2.0/libraries.deps.json
+/Users/sumitmittal/Desktop/Assignment_2/libraries/bin/Debug/netstandard2.0/libraries.dll
+/Users/sumitmittal/Desktop/Assignment_2/libraries/bin/Debug/netstandard2.0/libraries.pdb
+/Users/sumitmittal/Desktop/Assignment_2/libraries/obj/Debug/netstandard2.0/libraries.csproj.CoreCompileInputs.cache
+/Users/sumitmittal/Desktop/Assignment_2/libraries/obj/Debug/netstandard2.0/libraries.AssemblyInfoInputs.cache
+/Users/sumitmittal/Desktop/Assignment_2/libraries/obj/Debug/netstandard2.0/libraries.AssemblyInfo.cs
+/Users/sumitmittal/Desktop/Assignment_2/libraries/obj/Debug/netstandard2.0/libraries.dll
+/Users/sumitmittal/Desktop/Assignment_2/libraries/obj/Debug/netstandard2.0/libraries.pdb

@@ -1,0 +1,12 @@
+/Users/sumitmittal/Projects/Assignment_1/Assignment_1/bin/Debug/Assignment_1.exe
+/Users/sumitmittal/Projects/Assignment_1/Assignment_1/bin/Debug/Assignment_1.pdb
+/Users/sumitmittal/Projects/Assignment_1/Assignment_1/obj/x86/Debug/sMittal_300980027_A1.csprojResolveAssemblyReference.cache
+/Users/sumitmittal/Projects/Assignment_1/Assignment_1/obj/x86/Debug/sMittal_300980027_A1.csproj.CoreCompileInputs.cache
+/Users/sumitmittal/Projects/Assignment_1/Assignment_1/obj/x86/Debug/Assignment_1.exe
+/Users/sumitmittal/Projects/Assignment_1/Assignment_1/obj/x86/Debug/Assignment_1.pdb
+/Users/sumitmittal/Desktop/Assignment_1/Assignment_1/bin/Debug/Assignment_1.exe
+/Users/sumitmittal/Desktop/Assignment_1/Assignment_1/bin/Debug/Assignment_1.pdb
+/Users/sumitmittal/Desktop/Assignment_1/Assignment_1/obj/x86/Debug/sMittal_300980027_A1.csproj.CoreCompileInputs.cache
+/Users/sumitmittal/Desktop/Assignment_1/Assignment_1/obj/x86/Debug/Assignment_1.exe
+/Users/sumitmittal/Desktop/Assignment_1/Assignment_1/obj/x86/Debug/Assignment_1.pdb
+/Users/sumitmittal/Desktop/Assignment_1/Assignment_1/obj/x86/Debug/sMittal_300980027_A1.csprojResolveAssemblyReference.cache
